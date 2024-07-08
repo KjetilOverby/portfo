@@ -1,0 +1,10 @@
+virtuell enviroment
+
+in terminal:
+python3 -m venv venv
+
+eller for å få hele mappen:
+and python3 -m venv web\server\
+
+aktiver:
+source bin/activate

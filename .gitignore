@@ -1,0 +1,7 @@
+.vercel
+__pycache__
+bin
+include
+lib
+pyvenv
+note.txt
